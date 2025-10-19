@@ -18,7 +18,7 @@ public class MyConnection {
                 connection = DriverManager.getConnection(
                         "jdbc:mysql://localhost:3306/file?useSSL=false&serverTimezone=UTC",
                         "root",
-                        "enter your password"
+                        "enter your password "
                 );
                 LOGGER.info("Database connection established successfully!");
             } catch (ClassNotFoundException e) {
