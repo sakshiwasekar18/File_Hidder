@@ -11,7 +11,7 @@ public class SendOTPService {
     private static final Logger LOGGER = Logger.getLogger(SendOTPService.class.getName());
 
     public static void sendOTP(String email, String genOTP) {
-        String from = "wasekarsakshi@gmail.com"; // Your sender email
+        String from = "enter your gamil"; // Your sender email
         String host = "smtp.gmail.com";
 
         Properties properties = System.getProperties();
