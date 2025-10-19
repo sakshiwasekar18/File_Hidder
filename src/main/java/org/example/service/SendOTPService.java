@@ -22,7 +22,7 @@ public class SendOTPService {
 
         Session session = Session.getInstance(properties, new Authenticator() {
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication(from, "enter your password"); // your app password
+                return new PasswordAuthentication(from, "enter you password "); // your app password
             }
         });
 
