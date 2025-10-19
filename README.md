@@ -56,3 +56,5 @@ After signup, login with your email.
 Choose to hide a file — it gets encrypted and deleted from your system.
 
 Later, unhide it to recover the original file.
+![File Hidden Screenshot](https://github.com/user-attachments/assets/8c75412f-2a32-4507-9641-8b353df2ed77)
+
